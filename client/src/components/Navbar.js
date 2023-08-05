@@ -50,9 +50,11 @@ const Navbar = ({isloggedIn,userDetails,setUserDetails,setIsloggedIn,loggedIn}) 
   return (
     <div className='w-full flex items-center justify-center bg-blue-50'>
     <div className='w-11/12 flex justify-between items-center'>
-      <div>
-        <img className='h-[50px]' src={Logo} alt="Logo" />
-      </div>
+      <Link to="/home">
+        <div>
+          <img className='h-[50px]' src={Logo} alt="Logo" />
+        </div>
+      </Link>
       <HambergerMenu/>
       <div ref={divRef} className='cursor-pointer'>
         <img className='h-[30px]' src={profile} alt="" onClick={handleProfile} />
