@@ -1,1 +1,1 @@
-export const APIURL = "https://nmit-booking.vercel.app"
+export const APIURL = "https://equip-booking-backend.vercel.app/"
