@@ -1,6 +1,6 @@
 ## NMIT BOOKING Website
 ### Deployed link
-#### https://equipment-booking-website.vercel.app/
+#### https://equip-booking-demo.vercel.app/
 ### Design and Code by:
 #### [https://github.com/ThakurSatyam04](https://github.com/ThakurSatyam04)
 #### [https://www.linkedin.com/in/satyam-kumar-91a238224/](https://www.linkedin.com/in/satyam-kumar-91a238224/)
